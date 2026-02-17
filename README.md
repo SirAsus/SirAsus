@@ -15,7 +15,7 @@ I'm writing my own WM from scratch - [AquaWM](https://github.com/SirAsus/aquawm 
  ` Debian, Slackware, Trisquel, Devuan and Android` :)
 
 # My favorite OS:
- ` NetBSD, OpenIndiana, HaikuOS, KalibriOS. `
+ ` NetBSD, OpenIndiana, HaikuOS, KalibriOS, HelenOS.`<3
 
 # My Dotfiles:
 *   [`.bashrc`](bashrc)
